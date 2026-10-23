@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Putra
+  given-names: Cendra DEvayana
+orcid: https://orcid.org/0000-0002-5692-9762
+title:Cendra123/Counselling-Dialogue-Systems: v1.0.2
+version: 1.2
+date-released: 2026-10-23
