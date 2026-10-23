@@ -1,6 +1,6 @@
 # Counselling Dialogue Systems: A Systematic Literature Review of Application Contexts, Techniques, and Evaluation Practices
 
-Supplementary data for the systematic literature review (SLR) by **Cendra Devayana Putra, Hei-Chia Wang, Berliana Devianti Putri, and Bartolomeus Priya Perkasa Utama Widada** (manuscript submitted to the *International Journal of Human–Computer Interaction*).
+Supplementary data for the systematic literature review (SLR) by **Cendra Devayana Putra, Hei-Chia Wang, Berliana Devianti Putri, and Bartolomeus Priya Perkasa Utama Widada**.
 
 Counselling dialogue systems (CDSs) are conversational agents that help people explore personal problems, regulate emotions or make decisions. This repository contains the full screening log, eligibility decisions, coding and data-extraction sheets behind the review, so that every number in the paper can be traced back to individual records.
 
