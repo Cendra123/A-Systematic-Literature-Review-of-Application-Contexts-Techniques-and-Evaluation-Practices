@@ -103,13 +103,12 @@ Every record has a stable `Unique ID` (U00001–U12604) that links all workbooks
 - APA PsycInfo and grey literature were not searched.
 - 319 reports (11.1%) could not be retrieved in full text.
 - Level-1 codes for technique and modality were supported by keyword rules on the full text and should be read as approximate.
-- Screening was AI-assisted. See the manuscript for details of the reviewer checks.
 
 ## Citation
 
 If you use this dataset, please cite the article (citation details will be added on publication):
 
-> Putra, C. D., Wang, H.-C., Putri, B. D., & Widada, B. P. P. U. (2026). Counselling dialogue systems: A systematic literature review of application contexts, techniques, and evaluation practices. *Manuscript submitted to the International Journal of Human–Computer Interaction.*
+> Putra, C. D., Wang, H.-C., Putri, B. D., & Widada, B. P. P. U. (2026). Counselling dialogue systems: A systematic literature review of application contexts, techniques, and evaluation practices. 
 
 ## Contact
 
